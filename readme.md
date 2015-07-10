@@ -2,5 +2,5 @@
 
 ## Table of Content
 
-* [Installation](installation)
-* [Configuration](configuration)
+* [Installation](installation.md)
+* [Configuration](configuration.md)

@@ -1,4 +1,4 @@
-[&lar; back](readme)
+[&#8592; back](readme.md)
 
 # Configuration
 
