@@ -1,4 +1,4 @@
-[&#8592; back](readme.md)
+[&#8592; Table of Content](readme.md)
 
 # Installation
 
